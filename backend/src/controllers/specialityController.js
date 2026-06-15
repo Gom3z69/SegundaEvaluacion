@@ -17,7 +17,7 @@ specialitiesController.getSpeciality = async (req, res) => {
 
 //INSERT
 specialitiesController.insertSpeciality = async (req, res) => {
-    
+    //omg posiblemente muera hoy
 }
 
 //UPDATE
