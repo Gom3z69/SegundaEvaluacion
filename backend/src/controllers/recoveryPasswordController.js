@@ -1,4 +1,7 @@
 import transporter from "../utils/sendEmail";
+import bcrypt from "bcrypt";
+import transporter from "../utils/sendEmail";
+import registerEmail from "../utils/registerEmail";
 
 const recoveryPasswordController = {};
 
